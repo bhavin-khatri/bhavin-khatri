@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavin Khatri</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-khatri" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavin-khatri&label=Profile%20views&color=0e75b6&style=flat" alt="bhavin-khatri" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavin-khatri&theme=onedark&margin-w=15" alt="bhavin-khatri"/></a> </p>
 
